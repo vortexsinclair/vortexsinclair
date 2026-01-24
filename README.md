@@ -38,7 +38,7 @@
 
 ### 🔗 contact (if you dare)
 <p align="center">
-  <a href="https://discord.com/https://discord.com/1220832158139027526">discord</a>
+  <a href="https://discord.com/users/1220832158139027526">discord</a>
 </p>
 
 <p align="center">
