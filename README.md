@@ -15,7 +15,9 @@
 ### 🧠 about me
 - writes code ❌  
 - fixes bugs ❌  
-- creates new bugs ✅  
+- creates new bugs ✅
+- happily uses chatgpt for code ✅
+- this is also made by chatgpt  ✅
 - commits directly to main ✅  
 
 ---
@@ -30,7 +32,6 @@
 ### 🌀 current status
 - googling errors
 - pretending i understand stack overflow answers
-- adding `console.log` everywhere
 
 ---
 
