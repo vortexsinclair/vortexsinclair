@@ -30,17 +30,17 @@
 ---
 
 ### 🌀 current status
-- googling errors
-- pretending i understand stack overflow answers
+- asking chatgpt for answers what terminal says
+- does discord servers for a group service which i own!
 - available for hire (not as a dev, pls)
 
 ---
 
-### 🔗 contact (if you dare)
+### 🔗 contact 
 <p align="center">
   <a href="https://discord.com/users/1220832158139027526">discord</a>
 </p>
 
 <p align="center">
-  <sub>this profile README may contain bugs</sub>
+  <sub>thanks for reading xx</sub>
 </p>
