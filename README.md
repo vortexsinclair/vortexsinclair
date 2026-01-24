@@ -32,12 +32,13 @@
 ### 🌀 current status
 - googling errors
 - pretending i understand stack overflow answers
+- available for hire (not as a dev, pls)
 
 ---
 
 ### 🔗 contact (if you dare)
 <p align="center">
-  <a href="https://discord.com">discord</a>
+  <a href="https://discord.com/https://discord.com/1220832158139027526">discord</a>
 </p>
 
 <p align="center">
