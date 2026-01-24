@@ -20,9 +20,9 @@
 
 ---
 
-### 🧰 things i have *opened* (not mastered)
+### 🧰 things i have *opened* (not mastered, just let my friends work on it who can code)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,lua" />
 </p>
 
 ---
