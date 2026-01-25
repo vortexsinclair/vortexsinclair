@@ -38,7 +38,7 @@
 
 ### 🔗 contact 
 <p align="center">
-  <a href="https://discord.com/users/1220832158139027526">discord</a>
+  <a href="https://discord.com/users/1220832158139027526">discord</a> or <a href="https://tally.so/r/xXJvVd">through a form</a>
 </p>
 
 <p align="center">
