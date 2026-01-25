@@ -22,9 +22,9 @@
 
 ---
 
-### 🧰 things i have *opened* (not mastered, just let my friends work on it who can code)
+### 🧰 things i use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,lua" />
+  <img src="https://skillicons.dev/icons?i=discord,figma,gmail,instagram" />
 </p>
 
 ---
