@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://github.com/vortexsinclair/vortexsinclair/blob/76b79efe508605fb39a573445c6a80a36167ff09/Products.webp" width="220" />
-  <a href="https://vortex-sinclair.netlify.app">my website</a>
 </p>
 
 <h3 align="center">a bad developer!</h3>
@@ -10,6 +9,7 @@
 <p align="center">
   <em>i break things professionally</em>
 </p>
+<a href="https://vortex-sinclair.netlify.app">my chatgpt website</a>
 
 ---
 
