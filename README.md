@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm vortex 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/vortexsinclair/vortexsinclair/blob/76b79efe508605fb39a573445c6a80a36167ff09/Products.webp" width="220" />
+  <img src="" width="220" />
 </p>
 
 <h3 align="center">a bad developer!</h3>
