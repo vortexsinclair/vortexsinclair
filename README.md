@@ -1,13 +1,9 @@
-<h1 align="center">hi, i'm vortex 👋</h1>
+<h1 align="center">hi, i'm vortex. welcome to my github</h1>
+
+<h3 align="center">not a fullstack developer</h3>
 
 <p align="center">
-  <img src="" width="220" />
-</p>
-
-<h3 align="center">a bad developer!</h3>
-
-<p align="center">
-  <em>i break things professionally</em>
+  <em>i like roblox</em>
 </p>
 <a href="https://vortex-sinclair.netlify.app">my chatgpt website</a>
 
