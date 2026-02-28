@@ -29,7 +29,7 @@
 ### 🌀 current status
 - asking chatgpt for answers what terminal says
 - does discord servers for a group service which i own!
-- available for hire (not as a dev, pls)
+- not available for hire (not as a dev, pls)
 
 ---
 
