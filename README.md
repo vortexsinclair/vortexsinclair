@@ -5,7 +5,7 @@
 <p align="center">
   <em>i like roblox</em>
 </p>
-<a href="https://vortex-sinclair.netlify.app">my chatgpt website</a>
+<a href="https://vortexstuff.sennetjeeh.lol/">my claude website</a>
 
 ---
 
@@ -27,9 +27,8 @@
 ---
 
 ### 🌀 current status
-- asking chatgpt for answers what terminal says
-- does discord servers for a group service which i own!
-- not available for hire (not as a dev, pls)
+- asking chatgpt and claude for answers what terminal says
+- not available for hire
 
 ---
 
