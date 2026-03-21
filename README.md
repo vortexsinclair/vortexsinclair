@@ -21,7 +21,7 @@
 
 ### 🧰 things i use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,figma,gmail,discord,apple,instagram,vscode,robloxstudio,discordjs" />
+  <img src="https://skillicons.dev/icons?i=discord,figma,gmail,apple,instagram,vscode,robloxstudio,discordjs" />
 </p>
 
 ---
