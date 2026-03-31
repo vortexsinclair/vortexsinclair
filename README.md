@@ -5,7 +5,7 @@
 <p align="center">
   <em>i like roblox</em>
 </p>
-<a href="https://vortexstuff.sennetjeeh.lol/">my claude website</a>
+<a href="https://vortexstuff.sennetjeeh.lol/">my website</a>
 
 ---
 
@@ -13,9 +13,6 @@
 - writes code ❌  
 - fixes bugs ❌  
 - creates new bugs ✅
-- happily uses claude for code ✅
-- this is also made by claude  ✅
-- commits directly to main ✅  
 
 ---
 
@@ -27,8 +24,7 @@
 ---
 
 ### 🌀 current status
-- asking chatgpt and claude for answers what terminal says
-- not available for hire
+- asking chatgpt and claude for answers what terminal says, if i get it myself <b>i don't</b>
 
 ---
 
