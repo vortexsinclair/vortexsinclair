@@ -5,7 +5,7 @@
 <p align="center">
   <em>i like roblox</em>
 </p>
-<a href="https://vortexstuff.sennetjeeh.lol/">my website</a>
+<a href="https://vortexstuff.vercel.app/">my website</a>
 
 ---
 
