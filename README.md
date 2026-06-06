@@ -22,7 +22,7 @@ name: vortex
 location: somewhere on earth
 loves: roblox
 bugs_introduced: yes
-bugs_fixed:    no 
+bugs_fixed: no 
 ```
 
 ---
@@ -63,9 +63,9 @@ bugs_fixed:    no
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" title="Discord" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" title="Figma" />
   <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" title="Gmail" />
-  <img src="https://cdn.simpleicons.org/apple/FFFFFF" height="40" title="Apple" />
+  <img src="https://cdn.simpleicons.org/apple/555555" height="40" title="Apple" />
   <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" title="Instagram" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" title="VS Code" />
   <img src="https://cdn.simpleicons.org/roblox/00A2FF" height="40" title="Roblox Studio" />
 </p>
 
