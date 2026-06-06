@@ -60,7 +60,14 @@ bugs_fixed:    no
 ### 🧰 tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,figma,gmail,apple,instagram,vscode,robloxstudio,discordjs" />
+  <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apple-000000?style=flat&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Roblox_Studio-00A2FF?style=flat&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-discord.js-5865F2?style=flat&logo=discord&logoColor=white" />
 </p>
 
 ---
