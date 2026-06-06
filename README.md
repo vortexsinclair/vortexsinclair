@@ -60,14 +60,13 @@ bugs_fixed:    no
 ### 🧰 tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Apple-000000?style=flat&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Roblox_Studio-00A2FF?style=flat&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/-discord.js-5865F2?style=flat&logo=discord&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" title="Discord" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" title="Figma" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" title="Gmail" />
+  <img src="https://cdn.simpleicons.org/apple/FFFFFF" height="40" title="Apple" />
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" title="Instagram" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" title="VS Code" />
+  <img src="https://cdn.simpleicons.org/roblox/00A2FF" height="40" title="Roblox Studio" />
 </p>
 
 ---
