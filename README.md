@@ -1,38 +1,70 @@
-<h1 align="center">hi, i'm vortex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a></h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6ED4F6&center=true&vCenter=true&width=435&lines=hi%2C+i'm+vortex+%F0%9F%91%8B;welcome+to+my+profile">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=hi%2C+i'm+vortex+%F0%9F%91%8B;welcome+to+my+profile" alt="Typing SVG">
+  </picture>
+</div>
 
 <h3 align="center">not a fullstack developer</h3>
 
 <p align="center">
-  <em>i like roblox</em>
+  <a href="https://vortexdev.lol/">website</a> •
+  <a href="https://discord.com/users/1220832158139027526">discord</a> •
+  <a href="mailto:contactme@vortexdev.lol">email</a>
 </p>
-<a href="https://vortexstuff.vercel.app/">my website</a>
 
 ---
 
 ### 🧠 about me
-- writes code ❌  
-- fixes bugs ❌  
-- creates new bugs ✅
+
+```yaml
+name: vortex
+location: somewhere on earth
+loves: roblox
+bugs_introduced: yes
+bugs_fixed:    no 
+```
 
 ---
 
-### 🧰 things i use
+### 📊 github stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vortexsinclair&show_icons=true&hide_border=true&theme=transparent&icon_color=6ED4F6&text_color=c9d1d9&title_color=6ED4F6&count_private=true">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=vortexsinclair&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub Stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vortexsinclair&layout=compact&hide_border=true&theme=transparent&title_color=6ED4F6&text_color=c9d1d9&count_private=true">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortexsinclair&layout=compact&hide_border=true&theme=default&count_private=true" alt="Top Languages">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vortexsinclair&hide_border=true&theme=transparent&background=EB545400&stroke=6ED4F6&ring=6ED4F6&fire=6ED4F6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6ED4F6">
+    <img height="180" src="https://streak-stats.demolab.com?user=vortexsinclair&hide_border=true&theme=default" alt="GitHub Streak">
+  </picture>
+</p>
+
+---
+
+### 🎮 discord presence
+
+<p align="center">
+  <a href="https://discord.com/users/1220832158139027526">
+    <img src="https://lanyard.cnrad.dev/api/1220832158139027526?theme=dark&bg=0d1117&borderRadius=8px&animated=true&idleMessage=probably%20doing%20nothing..." alt="Discord Presence">
+  </a>
+</p>
+
+---
+
+### 🧰 tech stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=discord,figma,gmail,apple,instagram,vscode,robloxstudio,discordjs" />
 </p>
 
 ---
 
-### 🌀 current status
-- asking chatgpt and claude for answers what terminal says, if i get it myself <b>i don't</b>
-
----
-
-### 🔗 contact 
-<p align="center">
-  <a href="https://discord.com/users/1220832158139027526">discord</a> or <a href="https://tally.so/r/xXJvVd">through a form</a>
-</p>
-
-<p align="center">
+<div align="center">
   <sub>thanks for reading xx</sub>
-</p>
+</div>
